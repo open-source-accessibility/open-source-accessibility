@@ -2,27 +2,21 @@
 Accessibility testing remains challenging due to **labor-intensive** processes, **expensive** tooling, and the difficulty of testing without personal experience using assistive technologies. There's also **over-reliance on automated tools** that cannot solve all accessibility problems.
 
 # Categories, summaries, and sticky notes
->[!info]
 >Need to insert the table from slack here
 >
 
 # Recommended Next Steps
->[!info]
 >Need to insert the summaries discussed here.
 >
 
+---
 
 # Resources Breakdown
 ## Overview
-2. [Resource Categories](#resource-categories)
-3. [Top Resources Analysis](#top-resources-analysis)
-4. [Implementation Guide](#implementation-guide)
-5. [Quick Reference](#quick-reference)
-6. [Appendices](#appendices)
-
-- **Standards & Guidelines**: W3C WCAG 2.2 compliance
-- **Testing Tools**: axe-core, Lighthouse, WAVE integration
-- **Professional Development**: IAAP certifications, Deque training
+1. [Resource Categories](#resource-categories)
+2. [Community Integration Concepts](#community-integration-concepts)
+3. [Quick Reference](#quick-reference)
+4. [Appendices](#appendices)
 
 ---
 

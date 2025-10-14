@@ -1,7 +1,16 @@
 # Theme Overview
 Accessibility testing remains challenging due to **labor-intensive** processes, **expensive** tooling, and the difficulty of testing without personal experience using assistive technologies. There's also **over-reliance on automated tools** that cannot solve all accessibility problems.
 
+
+# Recommended Next Steps
+While we did identify many items within each of the following categories, this was not an exhaustive discussion, and our strongest focus for change was on the community support needs.
+If we were to continue the discussion with a fresh take on the categories, knowing what we now know, the conversation would be focused primarily on **engaging the open-source community to create concerted efforts to test for accessibility.**
+In practice, we referred often to the current state of cybersecurity as a great example on crowdsourcing testing. Through CTFs, bug bounties, and many other incentives, a culture has been created focused on responsibly testing the cybersecurity posture of open-source and public projects.
+We see this as the goal for accessibility: **Incentivizing the open-source community to crowd-test the accessibility of public projects, software, websites, and anything else they can.**
+
+
 # Categories, summaries, and sticky notes
+During the small group, we used sticky notes to identify elements of five categories of the challenege of testing and tooling: Key Challenges, Solution Approaches, Success Metrics, Action Plan, and Community Support Needs.
 
 | Key Challenges | Solution Approaches | Success Metrics | Action Plan | Community Support Needs |
 |---|---|---|---|---|
@@ -16,9 +25,6 @@ Accessibility testing remains challenging due to **labor-intensive** processes, 
 | **Universal Availability vs. Accessibility** | | | Design a mix of dev/tester teams (maybe with accessibility resources) | |
 | | | | Add different testing arrays (e.g., devices, operating systems, tools) | |
 
-# Recommended Next Steps
->Need to insert the summaries discussed here.
->
 
 ---
 

@@ -27,7 +27,7 @@
 ## Success Metrics
 * KPI for support calls
 * Doc feedback - thumbs up or thumbs down
-* A user preforms an action
+* A user performs an action
 * Read receipt
 * User testing for docs
 * Editorial workflow

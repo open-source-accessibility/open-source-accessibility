@@ -32,7 +32,7 @@
 * User testing for docs
 * Editorial workflow
 * 404 problem with knowledge
-    * Create a sign post for users
+    * Create a signpost for users
     * Summary of what you need to know and why
     * Supporting readers with the context needed without going to a new location
     * Who are the knowledge gatekeepers - break down the gates and share with others esp newbies

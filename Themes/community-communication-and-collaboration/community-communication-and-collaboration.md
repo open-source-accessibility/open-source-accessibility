@@ -15,7 +15,7 @@
 * Work on a11y bugs if open source
 * Report a11y bugs of (particularly if in open-source products)
 * Publicly list accessible open-source tools
-* Create OS license that includes access accessibility
+* Create OS license that includes accessibility
 * Create/attend meetups
 * Leadership buy-in and prioritization
 * Include open source a11y in mainstream tech events

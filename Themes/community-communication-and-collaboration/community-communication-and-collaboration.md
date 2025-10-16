@@ -11,7 +11,7 @@
 * Finite resources: money, time, education, accommodation, human effort
 
 ## Solution Approaches 
-* Repo owners must provide ability for public to open accessibility PRs
+* Repo owners must provide the ability for the public to open accessibility PRs
 * Work on a11y bugs if open source
 * Report a11y bugs (particularly in open source products)
 * Publicly list accessible open-source tools

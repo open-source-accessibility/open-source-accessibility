@@ -1,18 +1,19 @@
-# Theme Overview
+# Testing and Tooling Difficulties Session Notes
+
+## Theme Overview
 Accessibility testing remains challenging due to **labor-intensive** processes, **expensive** tooling, and the difficulty of testing without personal experience using assistive technologies. There's also **over-reliance on automated tools** that cannot solve all accessibility problems.
 
-
-# Recommended Next Steps
+## Recommended Next Steps
 While we did identify many items within each of the following categories, this was not an exhaustive discussion, and our strongest focus for change was on the community support needs.
 
 If we were to continue the discussion with a fresh take on the categories, knowing what we now know, the conversation would be focused primarily on **engaging the open-source community to create concerted efforts to test for accessibility.**
 
 In practice, we referred often to the current state of cybersecurity as a great example on crowdsourcing testing. Through CTFs, bug bounties, and many other incentives, a culture has been created focused on responsibly testing the cybersecurity posture of open-source and public projects.
 
-## ⭐⭐ Our discovered goal for accessibility testing: ⭐⭐
+### ⭐⭐ Our discovered goal for accessibility testing: ⭐⭐
 **Incentivizing the open-source community to crowd-test the accessibility of public projects, software, websites, and anything else they can, using publically available and open-source training and testing tools.**
 
-# Categories, summaries, and sticky notes
+## Categories, summaries, and sticky notes
 During the small group, we used sticky notes to identify elements of five categories of the challenege of testing and tooling: Key Challenges, Solution Approaches, Success Metrics, Action Plan, and Community Support Needs.
 
 | Key Challenges | Solution Approaches | Success Metrics | Action Plan | Community Support Needs |
@@ -31,8 +32,8 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-# Resources Breakdown
-## Overview
+## Resources Breakdown
+### Overview
 1. [Resource Categories](#resource-categories)
 2. [Community Integration Concepts](#community-integration-concepts)
 3. [Quick Reference](#quick-reference)
@@ -40,11 +41,11 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-## Resource Categories
+### Resource Categories
 
-### 🎯 W3C Standards & Guidelines
+#### 🎯 W3C Standards & Guidelines
 
-#### **Web Content Accessibility Guidelines (WCAG) 2.2** 
+##### **Web Content Accessibility Guidelines (WCAG) 2.2** 
 - **URL**: [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)
 - **Priority**: 🔴 Critical (P0)
 - **Implementation Value**: Primary compliance standard for all web accessibility
@@ -56,9 +57,9 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-### 🔧 Testing Tools & Automation
+#### 🔧 Testing Tools & Automation
 
-#### **axe-core (Deque Labs)**
+##### **axe-core (Deque Labs)**
 - **URL**: [https://github.com/dequelabs/axe-core](https://github.com/dequelabs/axe-core)
 - **Priority**: 🔴 Critical (P0)
 - **Implementation Value**: Industry-standard automated accessibility testing engine
@@ -75,7 +76,7 @@ During the small group, we used sticky notes to identify elements of five catego
   npx axe --load-delay=3000 http://localhost:3000
   ```
 
-#### **Google Lighthouse Accessibility**
+##### **Google Lighthouse Accessibility**
 - **URL**: [https://developer.chrome.com/docs/lighthouse/accessibility/scoring](https://developer.chrome.com/docs/lighthouse/accessibility/scoring)
 - **Priority**: 🟡 High (P1)
 - **Implementation Value**: Built-in DevTools accessibility auditing
@@ -85,7 +86,7 @@ During the small group, we used sticky notes to identify elements of five catego
   npx lighthouse --only-categories=accessibility --output=json --output-path=./accessibility-report.json http://localhost:3000
   ```
 
-#### **WAVE Web Accessibility Evaluation Tools**
+##### **WAVE Web Accessibility Evaluation Tools**
 - **URL**: [https://wave.webaim.org/](https://wave.webaim.org/)
 - **Priority**: 🟡 High (P1)
 - **Implementation Value**: Visual accessibility issue identification
@@ -94,7 +95,7 @@ During the small group, we used sticky notes to identify elements of five catego
   - Quick accessibility audits
   - Visual feedback for designers
 
-#### **Firefox Accessibility Simulator dev tool**
+##### **Firefox Accessibility Simulator dev tool**
 -   **URL**: [https://addons.mozilla.org/en-US/firefox/addon/accessibility-simulator/](https://addons.mozilla.org/en-US/firefox/addon/accessibility-simulator/)
 -   **Priority**: 🟢 Medium (P2)
 -   **Implementation Value**: Simulates different types of disabilities to test web accessibility
@@ -102,7 +103,7 @@ During the small group, we used sticky notes to identify elements of five catego
   - **Integration**: Firefox Developer Edition
   - **Features**: Simulates color-blindness, blurred vision, and more
 
-#### **Chrome Accessibility Developer Tools (Legacy)**
+##### **Chrome Accessibility Developer Tools (Legacy)**
 - **URL**: [https://github.com/GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 - **Priority**: ⚪ Reference (P3)
 - **Implementation Value**: Historical reference, largely superseded by axe-core
@@ -110,9 +111,9 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-### 🏢 Professional Resources & Training
+#### 🏢 Professional Resources & Training
 
-#### **Deque Systems**
+##### **Deque Systems**
 - **Primary URLs**: 
   - [https://github.com/dequelabs](https://github.com/dequelabs) (GitHub Organization)
   - [https://www.deque.com/resources/](https://www.deque.com/resources/)
@@ -127,9 +128,9 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-### 🎓 Certification Programs
+#### 🎓 Certification Programs
 
-#### **International Association of Accessibility Professionals (IAAP)**
+##### **International Association of Accessibility Professionals (IAAP)**
 - **CPACC Certification**: [https://www.accessibilityassociation.org/cpacc](https://www.accessibilityassociation.org/cpacc)
 - **WAS Certification**: [https://www.accessibilityassociation.org/was-exam](https://www.accessibilityassociation.org/was-exam)
 - **Priority**: 🟢 Medium (P2)
@@ -141,9 +142,9 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-### 🤝 Community & Learning Resources
+#### 🤝 Community & Learning Resources
 
-#### **Open Source Accessibility Community**
+##### **Open Source Accessibility Community**
 - **Center for Accessibility & Open Source**: [https://caos.org/](https://caos.org/)
 - **Summit Participation**: Active engagement in Open Source Accessibility Summit planning
 - **Priority**: 🔴 Critical (P0)
@@ -154,7 +155,7 @@ During the small group, we used sticky notes to identify elements of five catego
   - Best practice development
   - Real-time support and mentoring
 
-#### **Web.dev Learn Accessibility**
+##### **Web.dev Learn Accessibility**
 - **URL**: [https://web.dev/learn/accessibility](https://web.dev/learn/accessibility)
 - **Priority**: 🔴 Critical (P0)
 - **Implementation Value**: Comprehensive learning resource with practical examples
@@ -164,7 +165,7 @@ During the small group, we used sticky notes to identify elements of five catego
   - Progressive enhancement strategies
   - Performance-accessibility optimization
 
-#### **Web.dev Accessibility Review Guide**
+##### **Web.dev Accessibility Review Guide**
 - **URL**: [https://web.dev/articles/how-to-review](https://web.dev/articles/how-to-review)
 - **Priority**: 🟡 High (P1)
 - **Implementation Value**: Systematic approach to accessibility reviews
@@ -174,9 +175,9 @@ During the small group, we used sticky notes to identify elements of five catego
   - Pull request review guidelines
 
 ---
-### 🛠️ Assistive Technology & Testing
+#### 🛠️ Assistive Technology & Testing
 
-#### **NVDA Screen Reader**
+##### **NVDA Screen Reader**
 - **URL**: [https://www.nvaccess.org/download/](https://www.nvaccess.org/download/)
 - **Priority**: 🟡 High (P1)
 - **Implementation Value**: Free, open-source screen reader for testing
@@ -190,7 +191,7 @@ During the small group, we used sticky notes to identify elements of five catego
   - Real-world usage validation
   - Cost-effective alternative to expensive screen readers
 
-#### **National Center for Computing for the Blind (NCCB)**
+##### **National Center for Computing for the Blind (NCCB)**
 - **URL**: [https://nccbinfo.org/](https://nccbinfo.org/)
 - **Priority**: 🟢 Medium (P2)
 - **Implementation Value**: Resources for developers with visual impairments
@@ -200,9 +201,9 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-### 💻 Implementation Libraries & Frameworks
+#### 💻 Implementation Libraries & Frameworks
 
-#### **Facebook Lexical Editor**
+##### **Facebook Lexical Editor**
 - **URL**: [https://github.com/facebook/lexical](https://github.com/facebook/lexical)
 - **Description**: "Extensible text editor framework that provides excellent reliability, accessibility and performance"
 - **Priority**: 🟡 High (P1)
@@ -218,9 +219,9 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-### 📊 User Research & Testing
+#### 📊 User Research & Testing
 
-#### **Medium: Testing with Blind Users**
+##### **Medium: Testing with Blind Users**
 - **URL**: [https://medium.com/design-bridges/accessibility-testing-babe2d84e817](https://medium.com/design-bridges/accessibility-testing-babe2d84e817)
 - **Title**: "Testing sites and apps with blind users: a detailed cheatsheet"
 - **Priority**: 🟡 High (P1)
@@ -232,36 +233,36 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-## Community Integration Concepts
+### Community Integration Concepts
 - Join Open Source Accessibility Slack workspace
 - Set up weekly accessibility review meetings
 - Subscribe to web.dev accessibility updates
 
-#### 1. Professional Development
+##### 1. Professional Development
 - Enroll team members in IAAP certification programs
 - Set up accessibility training schedule
 - Create internal accessibility champions program
 
-#### 2. Enterprise Patterns
+##### 2. Enterprise Patterns
 - Review Enterprise accessibility documentation
 - Implement VPAT reporting for your projects
 - Create accessibility conformance report templates
 
-#### 3. User Testing Program
+##### 3. User Testing Program
 - Implement user testing with disabled users
 - Create feedback collection systems
 - Establish regular accessibility user sessions
 
-#### 4. Custom Tool Development
+##### 4. Custom Tool Development
 - Contribute to open source accessibility tools
 - Develop project-specific accessibility utilities
 - Create accessibility linting rules
 
 ---
 
-## Quick Reference
+### Quick Reference
 
-### 📋 Essential Bookmarks
+#### 📋 Essential Bookmarks
 
 | Category | Resource | URL | Quick Action |
 |----------|----------|-----|--------------|
@@ -273,39 +274,39 @@ During the small group, we used sticky notes to identify elements of five catego
 
 ---
 
-## Appendices
+### Appendices
 
-### A. Complete Resource URLs
+#### A. Complete Resource URLs
 
-#### Standards & Guidelines
+##### Standards & Guidelines
 - WCAG 2.2: https://www.w3.org/TR/WCAG22/
 - Web.dev Learn Accessibility: https://web.dev/learn/accessibility
 - Web.dev Review Guide: https://web.dev/articles/how-to-review
 
-#### Testing Tools
+##### Testing Tools
 - axe-core: https://github.com/dequelabs/axe-core
 - Lighthouse Documentation: https://developer.chrome.com/docs/lighthouse/accessibility/scoring
 - WAVE: https://wave.webaim.org/
 - Chrome A11y DevTools (Legacy): https://github.com/GoogleChrome/accessibility-developer-tools
 
-#### Professional Resources
+##### Professional Resources
 - Deque Systems GitHub: https://github.com/dequelabs
 - Deque Resources: https://www.deque.com/resources/
 - Deque Training: https://www.deque.com/training/
 
-#### Certifications
+##### Certifications
 - IAAP CPACC: https://www.accessibilityassociation.org/cpacc
 - IAAP WAS: https://www.accessibilityassociation.org/was-exam
 
-#### Assistive Technology
+##### Assistive Technology
 - NVDA Download: https://www.nvaccess.org/download/
 - NCCB: https://nccbinfo.org/
 
-#### Implementation
+##### Implementation
 - Facebook Lexical: https://github.com/facebook/lexical
 - Testing with Blind Users (Medium): https://medium.com/design-bridges/accessibility-testing-babe2d84e817
 
-### B. Search Keywords for Reference
+#### B. Search Keywords for Reference
 
 **Primary Keywords**: accessibility, a11y, wcag, aria, axe-core, lighthouse, deque, nvda, screen reader, inclusive design
 
@@ -313,7 +314,7 @@ During the small group, we used sticky notes to identify elements of five catego
 
 **Tool-Specific**: axe-core, lighthouse-ci, wave-webaim, nvda-testing, accessibility-developer-tools
 
-### C. Version Information
+#### C. Version Information
 
 - **WCAG**: Version 2.2 (Current as of 2025)
 - **axe-core**: Latest stable (check GitHub releases)

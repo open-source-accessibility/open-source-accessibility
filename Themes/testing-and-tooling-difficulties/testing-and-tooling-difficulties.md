@@ -40,7 +40,7 @@ Hard to prove success - the more specific the disability, the less % of the user
 Many steps are available for internal- or project-based testing, but don’t influence the community as a whole.
 
 ## Community Support Needs
-* Success happens when the lowest common denominator is engaged with the effort - Incentivize the community to build adoption.
+* Success happens when people of all experience levels are engaged with the effort – Incentivize the community to build adoption.
 * Create a “Step 0” to lower the floor for getting engaged with Accessibility development.
 * Drive interest in accessibility through community challenges
 * Raise awareness of tools (e.g., Lighthouse, axe, Wave)

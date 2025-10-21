@@ -24,10 +24,10 @@ This repo captures the outcomes from the community-led initiatives that launched
 [Lightning Presenter Four - Deque](https://www.deque.com/awareness-lab-online/)
 
 ## Themes
-1. [Community Communication and Collaboration](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/Community%20Communication%20and%20Collaboration.md)
-2. [Development Process Integration](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/Development%20Process%20Integration.md)
-3. [Information and Documentation](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/Information%20and%20Documentation.md)
-4. [Lack of Awareness and Knowledge](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/Lack%20of%20Awareness%20and%20Knowledge.md)
-5. [Organizational and Leadership Challenges](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/Organizational%20and%20Leadership%20Challenges.md)
-6. [Testing and Tooling Difficulties](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/Testing%20and%20Tooling%20Difficulties.md)
+1. [Community Communication and Collaboration](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/community-communication-and-collaboration/community-communication-and-collaboration.md)
+2. [Development Process Integration](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/development-process-integration/development-process-integration.md)
+3. [Information and Documentation](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/information-and-documentation-gaps/information-and-documentation-gaps.md)
+4. [Lack of Awareness and Knowledge](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/lack-of-awareness-and-knowledge/lack-of-awareness-and-knowledge.md)
+5. [Organizational and Leadership Challenges](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/organizational-and-leadership-challenges/organizational-and-leadership-challenges.md)
+6. [Testing and Tooling Difficulties](https://github.com/open-source-accessibility/open-source-accessibility/blob/main/Themes/testing-and-tooling-difficulties/testing-and-tooling-difficulties.md)
 

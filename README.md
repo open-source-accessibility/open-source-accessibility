@@ -23,4 +23,4 @@ The Open Source Accessibility Summit represented a significant milestone in our 
 * **Lead or join working groups** to define roadmap items, set priorities, propose projects, and coordinate community work found in the [Open Source Accessibility Organization](https://github.com/open-source-accessibility)
 * **Contribute to the implementation** to advance roadmap items (open issues, submit pull requests, write docs) in the [Open Source Accessibility Organization](https://github.com/open-source-accessibility)
 * **Share your expertise** in upcoming community working sessions
-* **Spread awareness** by sharing the roadmap from the **[Open Source Accessibility repo](https://github.com/open-source-accessibility/open-source-accessibility)** with your networks
+* **Spread awareness** by sharing the roadmap from the [Open Source Accessibility repo](https://github.com/open-source-accessibility/open-source-accessibility) with your networks

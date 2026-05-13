@@ -3,6 +3,26 @@ We hosted the [Open Source Accessibility Summit](https://2025.allthingsopen.org/
 
 Together, we identified six priority challenge areas through community polling and engaged in structured discussions to develop actionable solutions. The resulting roadmap outlined in this  **[Open Source Accessibility repo](https://github.com/open-source-accessibility/open-source-accessibility)** represents the collective expertise and commitment of summit attendees to drive measurable progress in open source accessibility.
 
+## Lighting Talks
+- Joshua Miele - Founder of Center for Accessibility and Open Source (CAOS):
+  - CAOS is a new organization. Through meaningful and sustainable disability inclusion and community engagement, we support:
+    - mainstream open source communities to value and strive for accessible outputs
+    - open-source accessibility projects to build community and capacity.
+- Yumeng Ma - PhD student at University of Washington
+  - A11yhood.org is a central hub for open-source assistive technologies. It catalogs accessible switches, 3D-printed device grips, and software stabilizers, and makes them available in a searchable format with tutorials, documentation, and community ratings. The platform’s goal is to support disabled makers, developers, and allies by making it easier to find, use, and contribute to accessibility projects. Alongside this catalog, our current work also examines accessibility in software generation, specifically how large language models generate web code and whether those outputs are accessible. This includes evaluating whether generated code applies semantic HTML, ARIA attributes, and keyboard navigation correctly, and identifying where these systems introduce barriers at scale. Together, these efforts aim to strengthen both the availability of physical assistive tools and the accessibility of digital interfaces.
+- Andy Feller - Software Engineer at GitHub
+  - How do we build delightful, accessible CLIs in a terminal world without any standards and loose, grassroots conventions.
+- Glenda Sims - Chief Information Accessibility Officer at Deque
+  - Driving Organizational Change: Open Sourcing the Accessibility Awareness Lab. Deque’s Accessibility Awareness Lab has helped organizations around the world ignite passion for accessibility by showing teams the human impact behind digital accessibility requirements. This hands-on experience helps participants understand why accessibility is essential. Now, we’re taking the next step: preparing to open source the entire framework and materials so anyone can create their own Lab and build self-sustaining accessibility momentum. In this lightning talk, Glenda Sims, Deque’s Chief Information Accessibility Officer, will share the key components of the Awareness Lab, why open sourcing it is so powerful, and how it can help organizations everywhere build lasting accessibility cultures.
+
+
+
+
+
+
+
+
+
 ## Themes
 The themes we identified included:
 

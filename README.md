@@ -1,5 +1,16 @@
-## Open Source Accessibility Summit Recap
-We hosted the [Open Source Accessibility Summit](https://2025.allthingsopen.org/open-source-accessibility-summit) on Oct 12th in Raleigh. We brought together the disability, accessibility, and open source communities for meaningful dialogue and collaboration.
+## Open Source Accessibility Summit - 2026
+
+Register for the [Open Source Accessibility Summit - 2026](https://2026.allthingsopen.org/open-source-accessibility-summit) happening on October 19, 2026 in Raleigh, NC.
+
+The Open Source Accessibility Summit will be a one-day in-person event that brings together members of the disability, accessibility, and open source communities to collaborate on practical ways to improve the accessibility of open source software. It will be an interactive event where participants learn, contribute, and work together on real accessibility challenges in open source projects.
+
+Goals of the summit are to:
+* Make connections between people who have a shared interest in improving the accessibility of open source software.
+* Share knowledge and practical skills for identifying accessibility issues, contributing fixes, and supporting more inclusive open source projects.
+* Create opportunities for participants to work on real accessibility improvements through guided issue writing, small pull requests, and collaborative hackathon-style projects.
+
+## Open Source Accessibility Summit - 2025 Recap
+We hosted the [Open Source Accessibility Summit - 2025](https://2025.allthingsopen.org/open-source-accessibility-summit) on Oct 12th in Raleigh. We brought together the disability, accessibility, and open source communities for meaningful dialogue and collaboration.
 
 Together, we identified six priority challenge areas through community polling and engaged in structured discussions to develop actionable solutions. The resulting roadmap outlined in this  **[Open Source Accessibility repo](https://github.com/open-source-accessibility/open-source-accessibility)** represents the collective expertise and commitment of summit attendees to drive measurable progress in open source accessibility.
 

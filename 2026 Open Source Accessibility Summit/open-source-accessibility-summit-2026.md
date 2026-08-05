@@ -1,0 +1,63 @@
+# Open Source Accessibility Summit - 2026
+
+The Open Source Accessibility Summit will be a one-day in-person event that brings together members of the disability, accessibility, and open source communities to collaborate on practical ways to improve the accessibility of open source software. It will be an interactive event where participants learn, contribute, and work together on real accessibility challenges in open source projects.
+
+**Register for the [Open Source Accessibility Summit - 2026]**(https://2026.allthingsopen.org/open-source-accessibility-summit) happening on October 19, 2026 in Raleigh, NC.
+
+## Goals
+* Make connections between people who have a shared interest in improving the accessibility of open source software.
+* Share knowledge and practical skills for identifying accessibility issues, contributing fixes, and supporting more inclusive open source projects.
+* Create opportunities for participants to work on real accessibility improvements through guided issue writing, small pull requests, and collaborative hackathon-style projects.
+
+## Agenda
+
+- **09:00 - 09:15:** Welcome, Main Room
+- **09:15 - 09:45:** Keynote, Main Room
+- **09:45 - 10:15:** Lightning demos, Main Room
+- **10:15 - 10:30:** Break
+- **10:30 - 12:00:** Breakout Session 1
+- **12:00 - 13:00:** Lunch
+- **13:00 - 14:30:** Breakout Session 2
+- **14:30 - 14:45:** Break
+- **14:45 - 16:15:** Breakout Session 3
+- **16:15 - 16:40:** Break
+- **16:40 - 17:00:** Closing
+
+## Breakout Rooms
+Each breakout session will offer activities tailored to the focus of each breakout room:
+
+### Room 1: Accessibility 101 for Open Source Contributors
+
+Learn practical accessibility checks, responsible ways to use AI for accessibility, and how to turn findings into actionable contributions using the Open Source Accessibility Framework.
+
+**Goals:**
+
+- Foster an inclusive, accessibility-focused mindset.
+- Learn a practical accessibility hotlist.
+- Leave with clear, trackable action items.
+
+### Room 2: Open Discussion to Improve Accessibility in Open Source
+
+Explore disability inclusion and accessibility in open source through short learning sessions, expert discussions, and a collaborative workshop focused on turning best practices into sustainable project practices using the Open Source Accessibility Framework.
+
+**Goals:**
+
+- Increase confidence and participation among people with disabilities and accessibility experts.
+- Identify strategies for bringing accessibility expertise and best practices into open source.
+- Develop concrete, trackable actions to strengthen accessibility across open source communities.
+
+### Room 3: Open Source Accessibility Mini Hackathon
+
+Collaborate on open source projects, apply testing strategies, and define concrete next steps through the Open Source Accessibility Framework.
+
+Want to submit a project for the Open Source Accessibility Summit? We will help promote your project before the event and will welcome any walk-in projects!
+
+**Goals:**
+
+- Welcome and support projects at all accessibility maturity levels.
+- Build understanding of accessibility best practices and testing.
+- Produce public, concrete, and trackable project actions.
+
+## Sponsorships
+Want to help sponsor this event? Please review our sponsorship opportunities.
+

@@ -9,6 +9,11 @@ The Open Source Accessibility Summit will be a one-day in-person event that brin
 * Share knowledge and practical skills for identifying accessibility issues, contributing fixes, and supporting more inclusive open source projects.
 * Create opportunities for participants to work on real accessibility improvements through guided issue writing, small pull requests, and collaborative hackathon-style projects.
 
+## Sponsors
+GitHub is proud to serve as the lead sponsor of the [Open Source Accessibility Summit (2026)](/2026%20Open%20Source%20Accessibility%20Summit/open-source-accessibility-summit-2026.md). We invite community members and organizations to help support the event through sponsorship. To learn more, review the [Sponsorship Opportunities](/2026%20Open%20Source%20Accessibility%20Summit/sponsorships.md).
+
+If interested, please reach out to [Maria Lamardo](https://www.linkedin.com/in/marialamardo/) for more details.
+
 ## Agenda
 
 - **09:00 - 09:15:** Welcome, Main Room
@@ -57,7 +62,3 @@ Want to submit a project for the Open Source Accessibility Summit? We will help 
 - Welcome and support projects at all accessibility maturity levels.
 - Build understanding of accessibility best practices and testing.
 - Produce public, concrete, and trackable project actions.
-
-## Sponsorships
-Want to help sponsor this event? Please review our sponsorship opportunities.
-

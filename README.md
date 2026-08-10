@@ -9,8 +9,6 @@ The Open Source Accessibility Summit represented a significant milestone in our 
 * **Contribute to the open source accessibility roadmap** to advance roadmap items (open issues, submit pull requests, write docs) in the [Open Source Accessibility Organization](https://github.com/open-source-accessibility)
 * **Spread awareness** by sharing the roadmap from the [Open Source Accessibility repo](https://github.com/open-source-accessibility/open-source-accessibility) with your networks
 
-
-
 ## Open Source Accessibility Summit - 2026
 The Open Source Accessibility Summit will be a one-day in-person event that brings together members of the disability, accessibility, and open source communities to collaborate on practical ways to improve the accessibility of open source software. It will be an interactive event where participants learn, contribute, and work together on real accessibility challenges in open source projects.
 

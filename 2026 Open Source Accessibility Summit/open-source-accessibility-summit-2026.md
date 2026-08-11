@@ -16,17 +16,15 @@ If interested, please reach out to [Maria Lamardo](https://www.linkedin.com/in/m
 
 ## Agenda
 
-- **09:00 - 09:15:** Welcome, Main Room
-- **09:15 - 09:45:** Keynote, Main Room
-- **09:45 - 10:15:** Lightning demos, Main Room
-- **10:15 - 10:30:** Break
-- **10:30 - 12:00:** Breakout Session 1
-- **12:00 - 13:00:** Lunch
-- **13:00 - 14:30:** Breakout Session 2
-- **14:30 - 14:45:** Break
-- **14:45 - 16:15:** Breakout Session 3
-- **16:15 - 16:40:** Break
-- **16:40 - 17:00:** Closing
+- **09:00 - 09:15** Opening
+- **09:15 - 9:45** Keynote
+- **9:45 - 10:15** Lightning demos
+- **10:15 - 10:30** Break
+- **10:30 - 1:00** Breakout Cycle 1
+- **1:00 - 2:30** Lunch 
+- **2:30 - 4:00** Breakout Cycle 2
+- **4:00 - 4:15** Break
+- **4:15 - 4:30** Closing
 
 ## Breakout Rooms
 Each breakout session will offer activities tailored to the focus of each breakout room:

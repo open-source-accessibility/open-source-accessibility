@@ -2,7 +2,7 @@
 
 The Open Source Accessibility Summit will be a one-day in-person event that brings together members of the disability, accessibility, and open source communities to collaborate on practical ways to improve the accessibility of open source software. It will be an interactive event where participants learn, contribute, and work together on real accessibility challenges in open source projects.
 
-**Register for the [Open Source Accessibility Summit - 2026](https://2026.allthingsopen.org/open-source-accessibility-summit) happening on October 19, 2026 in Raleigh, NC.
+**Register for the [Open Source Accessibility Summit - 2026](https://2026.allthingsopen.org/open-source-accessibility-summit)** happening on October 19, 2026 in Raleigh, NC.
 
 ## Goals
 * Make connections between people who have a shared interest in improving the accessibility of open source software.

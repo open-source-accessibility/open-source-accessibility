@@ -2,7 +2,7 @@
 
 The Open Source Accessibility Summit will be a one-day in-person event that brings together members of the disability, accessibility, and open source communities to collaborate on practical ways to improve the accessibility of open source software. It will be an interactive event where participants learn, contribute, and work together on real accessibility challenges in open source projects.
 
-**Register for the [Open Source Accessibility Summit - 2026]**(https://2026.allthingsopen.org/open-source-accessibility-summit) happening on October 19, 2026 in Raleigh, NC.
+**Register for the [Open Source Accessibility Summit - 2026](https://2026.allthingsopen.org/open-source-accessibility-summit)** happening on October 19, 2026 in Raleigh, NC.
 
 ## Goals
 * Make connections between people who have a shared interest in improving the accessibility of open source software.
@@ -16,17 +16,15 @@ If interested, please reach out to [Maria Lamardo](https://www.linkedin.com/in/m
 
 ## Agenda
 
-- **09:00 - 09:15:** Welcome, Main Room
-- **09:15 - 09:45:** Keynote, Main Room
-- **09:45 - 10:15:** Lightning demos, Main Room
-- **10:15 - 10:30:** Break
-- **10:30 - 12:00:** Breakout Session 1
-- **12:00 - 13:00:** Lunch
-- **13:00 - 14:30:** Breakout Session 2
-- **14:30 - 14:45:** Break
-- **14:45 - 16:15:** Breakout Session 3
-- **16:15 - 16:40:** Break
-- **16:40 - 17:00:** Closing
+- **09:00 - 09:15** Opening
+- **09:15 - 9:45** Keynote
+- **9:45 - 10:15** Lightning demos
+- **10:15 - 10:30** Break
+- **10:30 - 1:00** Breakout Cycle 1
+- **1:00 - 2:30** Lunch 
+- **2:30 - 4:00** Breakout Cycle 2
+- **4:00 - 4:15** Break
+- **4:15 - 4:30** Closing
 
 ## Breakout Rooms
 Each breakout session will offer activities tailored to the focus of each breakout room:
@@ -50,15 +48,3 @@ Explore disability inclusion and accessibility in open source through short lear
 - Increase confidence and participation among people with disabilities and accessibility experts.
 - Identify strategies for bringing accessibility expertise and best practices into open source.
 - Develop concrete, trackable actions to strengthen accessibility across open source communities.
-
-### Room 3: Open Source Accessibility Mini Hackathon
-
-Collaborate on open source projects, apply testing strategies, and define concrete next steps through the Open Source Accessibility Framework.
-
-Want to submit a project for the Open Source Accessibility Summit? We will help promote your project before the event and will welcome any walk-in projects!
-
-**Goals:**
-
-- Welcome and support projects at all accessibility maturity levels.
-- Build understanding of accessibility best practices and testing.
-- Produce public, concrete, and trackable project actions.

@@ -7,7 +7,7 @@ If interested, please reach out to [Maria Lamardo](https://www.linkedin.com/in/m
 ## Sponsorship Breakdown
 | Sponsorship Opportunity | What the Sponsor Can Contribute | Estimated Cost | Level |
 |---|---|---|---|
-| **Room setup and AV & Technology Sponsor** | Provide funding, equipment, or technical support for microphones, sound, projection, recording, livestreaming, room technology and room setup. | $5,000 | Gold |
+| **Room Setup and AV & Technology Sponsor** | Provide funding, equipment, or technical support for microphones, sound, projection, recording, livestreaming, room technology, and room setup. | $5,000 | Gold |
 | **Participant Housing Sponsor** | Provide or underwrite hotel room blocks in groups of 5 rooms for speakers, volunteers, or attendees who need lodging support. | $5,000 | Gold |
 | **Room 1: Access & Inclusion Sponsor** | Underwrite ASL interpretation services for the full event or selected sessions. | $3,000 | Silver |
 | **Open Source Accessibility Shirt Sponsor** | Provide or fund event shirts. | $3,000 | Silver |

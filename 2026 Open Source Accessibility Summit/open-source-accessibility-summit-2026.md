@@ -15,50 +15,33 @@ GitHub is proud to serve as the lead sponsor of the [Open Source Accessibility S
 If interested, please reach out to [Maria Lamardo](https://www.linkedin.com/in/marialamardo/) for more details.
 
 ## Agenda
+- **9:00 am – 9:15 am** Welcome
+- **9:15 am – 9:45 am** Keynote
+- **9:45 am – 10:15 am** Open Source Accessibility Framework intro
+- **10:15 am – 11:15 am** Foundational Phase
+- **11:15 am – 11:30 am** Break
+- **11:30 am – 1:00 pm** Testing Phase
+- **11:30 am – 1:00 pm** Open Discussion Station
+- **1:00 pm – 2:30 pm** Lunch 
+- **2:30 pm – 4:15 pm** Open Discussion Station
+- **2:30 pm – 3:30 pm** Workflow Phase
+- **3:30 pm – 4:15 pm** Community Phase
+- **4:15 pm – 4:30 pm** Closing
 
-- **09:00 - 09:15:** Welcome, Main Room
-- **09:15 - 09:45:** Keynote, Main Room
-- **09:45 - 10:15:** Lightning demos, Main Room
-- **10:15 - 10:30:** Break
-- **10:30 - 12:00:** Breakout Session 1
-- **12:00 - 13:00:** Lunch
-- **13:00 - 14:30:** Breakout Session 2
-- **14:30 - 14:45:** Break
-- **14:45 - 16:15:** Breakout Session 3
-- **16:15 - 16:40:** Break
-- **16:40 - 17:00:** Closing
 
-## Breakout Rooms
-Each breakout session will offer activities tailored to the focus of each breakout room:
+## About the Open Source Accessibility Summit
 
-### Room 1: Accessibility 101 for Open Source Contributors
+The 2026 Open Source Accessibility Summit will give participants space to learn, collaborate, and exchange ideas throughout the day.
 
-Learn practical accessibility checks, responsible ways to use AI for accessibility, and how to turn findings into actionable contributions using the Open Source Accessibility Framework.
+We’ll introduce the Open Source Accessibility Framework, a practical guide for making accessibility visible, actionable, and sustainable in open source projects. Together, we’ll walk through each phase of the framework:
 
-**Goals:**
+- **Foundational**: Establish an accessibility commitment, reporting process, tracking issue, labels, and issue templates.
+- **Testing**: Build practical habits through automated checks, keyboard-only testing, screen reader spot checks, and manual review.
+- **Workflow**: Integrate accessibility into documentation, design, issue triage, pull requests, acceptance criteria, ownership, and everyday development practices.
+- **Community**: Learn how to respond respectfully to accessibility reports, publish progress, invite community participation, and recognize accessibility contributions.
 
-- Foster an inclusive, accessibility-focused mindset.
-- Learn a practical accessibility hotlist.
-- Leave with clear, trackable action items.
+Each phase will combine short presentations, demonstrations, and hands-on activities. Participants will have the opportunity to apply the framework to their own projects – or work with example open source projects – to draft documentation, create issue templates, identify and track accessibility barriers, add workflow checklists, and plan future improvements.
 
-### Room 2: Open Discussion to Improve Accessibility in Open Source
+An **open Discussion Station** will be available throughout the day for participants who want to explore topics, share experiences, ask questions, or connect with others. Discussion topics will be shaped by the community and announced as the event approaches.
 
-Explore disability inclusion and accessibility in open source through short learning sessions, expert discussions, and a collaborative workshop focused on turning best practices into sustainable project practices using the Open Source Accessibility Framework.
-
-**Goals:**
-
-- Increase confidence and participation among people with disabilities and accessibility experts.
-- Identify strategies for bringing accessibility expertise and best practices into open source.
-- Develop concrete, trackable actions to strengthen accessibility across open source communities.
-
-### Room 3: Open Source Accessibility Mini Hackathon
-
-Collaborate on open source projects, apply testing strategies, and define concrete next steps through the Open Source Accessibility Framework.
-
-Want to submit a project for the Open Source Accessibility Summit? We will help promote your project before the event and will welcome any walk-in projects!
-
-**Goals:**
-
-- Welcome and support projects at all accessibility maturity levels.
-- Build understanding of accessibility best practices and testing.
-- Produce public, concrete, and trackable project actions.
+Whether you are new to accessibility, an experienced contributor, a maintainer, a designer, a tester, or someone who uses assistive technology, you will have opportunities to participate in ways that match your interests and experience. By the end of the summit, participants should leave with a clearer understanding of the framework, practical next steps for their projects, and visible accessibility work already underway.

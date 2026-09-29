@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.webarchive
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Dependencies & Build Output
+node_modules/
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
